@@ -25,8 +25,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kylin-zhou&amp;layout=compact&amp;hide=html" alt="kylin-zhou"></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kylin-zhou&amp;show_icons=true" alt="kylin-zhou"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kylin-zhou&amp;layout=compact&amp;hide=html" alt="kylin-zhou"></p>
 
 
 
